@@ -1,7 +1,7 @@
 
 # Web Conception
 
-A website that I designed to demonstrate my freelance skills : creating websites, native mobile apps and softwares.
+A showcase website that I designed to demonstrate my skills as a freelancer : creating websites, native mobile apps and softwares.
 
 ### Installing
 ```
