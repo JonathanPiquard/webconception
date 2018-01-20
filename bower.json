@@ -1,0 +1,30 @@
+{
+  "name": "Web Conception",
+  "description": "A website to show my business : website creation",
+  "main": "app.js",
+  "authors": [
+    "Piquard Jonathan <piquard.jonathan@protonmail.com>"
+  ],
+  "license": "All rights reserved",
+  "moduleType": [],
+  "homepage": "assets/index.html",
+  "dependencies": {
+    "font-awesome": "~4.5.0",
+    "jquery": "~1.11.2",
+    "bootstrap": "~3.3.1",
+    "animate-css": "~3.5.1",
+    "waypoints": "^4.0.0",
+    "classie": "^1.0.1",
+    "normalize-css": "^4.1.1",
+    "retina.js": "^1.3.0",
+    "flexslider": "^2.6.1",
+    "bootstrap-validator": "^0.10.2",
+    "toastr": "^2.1.2"
+  },
+  "exportsOverride": {
+    "font-awesome": {
+      "fonts": "fonts/*",
+      "css": "css/font-awesome.css"
+    }
+  }
+}
