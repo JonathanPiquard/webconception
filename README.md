@@ -1,30 +1,13 @@
 
-# GMAO TAILOR
+# Web Conception
 
-Web application of Computer-assisted Maintenance Management, dynamic and intuitive, capable of adapting to any targeted projects via a object oriented visual programming (UML like).
+A website that I designed to demonstrate my freelance skills : creating websites, native mobile apps and softwares.
 
 ### Installing
 ```
-npm install
-bower install
-grunt //Sass will require Ruby installed
-//start mongodb
-npm start
+assets/index.html
 ```
-Server running at [localhost:1337](http://localhost:1337/)
-
-### How to get to the Login / Register page
-
-[localhost:1337/#/auth](http://localhost:1337/#/auth)
-
-#### Note
-[localhost:1337](http://localhost:1337/) will redirects to  [localhost:1337/home](http://localhost:1337/home), a placeholder page that invites you to subscribe to any news before the alpha begins.
-You can click, inside the page, on 'GMAO Tailor' (underlined) to get to [localhost:1337/#/auth](http://localhost:1337/#/auth)
-
-### Screenshots
-
-You can check the [screenshots](screenshots) repertory to see how the app looks like but keep in mind that there is no database mockups.
-The Blueprint Editor is the main interface. Its very purpose is a visual programming by interconnecting Elements. The screenshot is quite limited.
+If you want to modify the files, you will have to launch grunt.
 
 ### Author
 
